@@ -4,5 +4,5 @@
 [Link text] (https://apple.com)
 
 This is our **collaborative** paper repo!
-## subsection
+## Subsection
 This is a subsection
